@@ -5,7 +5,7 @@
  I am looking for an entry-level position to kickstart my career in the
 (specify field).
 
-Skills: <img src="https://lh3.googleusercontent.com/Eyx5MaOENNV97x3GPpTrnEL3qm_qvR9o-nLrDMY5VXzPqSaH4YvWZsdrr0pqeGPp9SxSWw=s85" height="50" width="50"> C/JAVA/HTML/CSS/BOOTSTRAP/JAVASCRIPT/NODEJS/EXPRESSJS/MONGODB
+Skills: C/JAVA/HTML/CSS/BOOTSTRAP/JAVASCRIPT/NODEJS/EXPRESSJS/MONGODB
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
