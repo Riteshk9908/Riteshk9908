@@ -5,7 +5,7 @@
  I am looking for an entry-level position to kickstart my career in the
 (specify field).
 
-Skills: /JAVA/HTML/CSS/JAVASCRIPT/NODEJS/EXPRESSJS/MONGODB
+Skills: JAVA/HTML/CSS/JAVASCRIPT/NODEJS/EXPRESSJS/MONGODB
 
 
 
